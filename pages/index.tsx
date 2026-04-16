@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { useState } from 'react'
-import Navigation from '../components/Navigation'
+import Navigation from './components/Navigation'
 import Hero from '../components/Hero'
 import TechTutor from '../components/TechTutor'
 import HealthGuide from '../components/HealthGuide'
